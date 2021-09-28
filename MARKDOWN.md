@@ -8,3 +8,15 @@ WCM's key features include document control, auditing, editing, and timeline man
 **AEM (Adobe Experience Manager)**: is a Web Content Management system that allows you to organize, manage, and deliver creative assets.
 
 **AEM** offers templates for creating targeted content and securely publishing it in the cloud.It is a Java web application which requires a server-side Java Runtime Environment (JRE).
+
+## Module 2 :
+
+**Viewing and Updating CRX Repository** : 
+
+CRX Explorer allows you to view and update the CRX repository. `[http://localhost:4502/crx/explorer](http://localhost:4502/crx/explorer)` 
+
+**Developing Content using CRXDE Lite Interface** : 
+
+**CRXDE Lite** allows you to perform standard development tasks. It is recommended to use this interface when there is no direct access to the AEM/CRX server. 
+
+**Asset** is a digital asset management tool that is fully integrated with the AEM platform and enables our enterprise to share and distribute digital assets. It is also known as **DAM (Digital Asset Manager)**.
