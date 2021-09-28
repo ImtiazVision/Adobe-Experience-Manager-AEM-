@@ -20,3 +20,7 @@ CRX Explorer allows you to view and update the CRX repository. `[http://localhos
 **CRXDE Lite** allows you to perform standard development tasks. It is recommended to use this interface when there is no direct access to the AEM/CRX server. 
 
 **Asset** is a digital asset management tool that is fully integrated with the AEM platform and enables our enterprise to share and distribute digital assets. It is also known as **DAM (Digital Asset Manager)**.
+
+**Working with AEM Tags** : 
+
+**Namespace** is a class of elements like addresses, file locations, etc., in which each element has a name unique to that class, although it may be shared with elements in other classes.
