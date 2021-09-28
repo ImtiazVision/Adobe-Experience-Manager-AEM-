@@ -24,3 +24,5 @@ CRX Explorer allows you to view and update the CRX repository. `[http://localhos
 **Working with AEM Tags** : 
 
 **Namespace** is a class of elements like addresses, file locations, etc., in which each element has a name unique to that class, although it may be shared with elements in other classes.
+
+**Leaf tag** is a tag that doesn't have child tags. 
