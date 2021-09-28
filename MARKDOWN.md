@@ -25,4 +25,6 @@ CRX Explorer allows you to view and update the CRX repository. `[http://localhos
 
 **Namespace** is a class of elements like addresses, file locations, etc., in which each element has a name unique to that class, although it may be shared with elements in other classes.
 
+**Tags** which can be applied by authors and site visitors are grouped into various namespaces. Such hierarchies allow taxonomies to be built and these taxonomies are global throughout AEM.
+
 **Leaf tag** is a tag that doesn't have child tags. 
