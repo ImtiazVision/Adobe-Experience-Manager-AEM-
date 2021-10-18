@@ -54,5 +54,11 @@ AEM Components Characteristics:
 - There are no hidden configuration files in this package.
 - Other Components can be included and operated anywhere within CQ5 or in isolation (e.g. portal).
 
-**Component hierarchies** determine how components share information with one another.
+**Component hierarchies** determine how components share information with one another. There are 3 types of Component Hierarchies, 
+1. Resource Type Hierarchy : 
+2. Container Hierarchy : 
+3. Include Hierarchy : 
+
+
+
 We may use **website design** to provide a consistent appearance and feel across all pages.
