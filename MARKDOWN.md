@@ -28,3 +28,9 @@ CRX Explorer allows you to view and update the CRX repository. `[http://localhos
 **Tags** which can be applied by authors and site visitors are grouped into various namespaces. Such hierarchies allow taxonomies to be built and these taxonomies are global throughout AEM.
 
 **Leaf tag** is a tag that doesn't have child tags. 
+
+## Module 3 :
+
+**Templates** : defines the scope for storing content. 
+
+**Components** : implements specific functionalities to deliver content in AEM. 
