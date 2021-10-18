@@ -57,7 +57,7 @@ AEM Components Characteristics:
 **Component hierarchies** determine how components share information with one another. There are 3 types of Component Hierarchies, 
 1. **Resource Type Hierarchy** : Components use it to inherit scripts, dialogs, and descriptions, as well as thumbnail pictures and icons, from the main component.
 2. **Container Hierarchy** : is used to transport configuration settings, control set layout, and dialog layout from parent to child components.
-3. **Include Hierarchy** : 
+3. **Include Hierarchy** : serves as a foundation for many rendering design characteristics such as layout information, CSS information, and the available components in a paragraph system. The sequence of includes imposes this at runtime.
 
 
 
