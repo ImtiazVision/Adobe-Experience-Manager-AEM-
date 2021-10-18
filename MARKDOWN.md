@@ -12,7 +12,7 @@ WCM's key features include document control, auditing, editing, and timeline man
 **Features of WCM** : 
 - **Authoring Interface** : enables us to build web pages by utilizing templates and components.
 - **Version Control** : enables us to retrieve earlier versions and resume work from a certain point.
-
+- **Document Classification** : enables us to manually or automatically tag and categorize metadata (data that characterizes a document).
 
 **AEM (Adobe Experience Manager)**: is a Web Content Management system that allows you to organize, manage, and deliver creative assets.
 
