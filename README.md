@@ -9,6 +9,4 @@ WCM's key features include document control, auditing, editing, and timeline man
 
 **AEM** offers templates for creating targeted content and securely publishing it in the cloud. It is a Java web application which requires a server-side Java Runtime Environment (JRE).
 
-**Templates** : defines the scope for storing content. 
 
-**Components** : implements specific functionalities to deliver content in AEM. 
