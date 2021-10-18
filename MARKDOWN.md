@@ -31,6 +31,14 @@ CRX Explorer allows you to view and update the CRX repository. `[http://localhos
 
 ## Module 3 :
 
+A project is an AEM file that contains various elements needed to build our website.
+
+
+Templates, components, OSGi bundles, and static files are the four components of a project.
+
+
+An AEM project requires a project structure to allow for easy interaction of elements.
+
 **Templates** : defines the scope for storing content. 
 
 **Components** : implements specific functionalities to deliver content in AEM. 
