@@ -42,3 +42,7 @@ An AEM project requires a project structure to allow for easy interaction of ele
 **Templates** : defines the scope for storing content. 
 
 **Components** : implements specific functionalities to deliver content in AEM. 
+
+**OSGi Bundles** : implements the functionalities of OSGi components and AEM components.
+
+**Static Files** : deliver static content on the website/webpage. 
