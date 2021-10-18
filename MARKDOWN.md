@@ -47,7 +47,7 @@ An AEM project requires a project structure to allow for easy interaction of ele
 
 **Static Files** : deliver static content on the website/webpage. 
 
-A website template is a pre-defined web page that allows us to put in our material and construct our own website.
-Components are modular, reusable pieces that implement specialized functionality to render content on our website.
+A website **template** is a pre-defined web page that allows us to put in our material and construct our own website.
+**Components** are modular, reusable pieces that implement specialized functionality to render content on our website.
 Component hierarchies determine how components share information with one another.
 We may use website design to provide a consistent appearance and feel across all pages.
