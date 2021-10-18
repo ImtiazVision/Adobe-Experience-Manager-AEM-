@@ -49,5 +49,10 @@ An AEM project requires a project structure to allow for easy interaction of ele
 
 A website **template** is a pre-defined web page that allows us to put in our material and construct our own website.
 **Components** are modular, reusable pieces that implement specialized functionality to render content on our website. Every component is a collection of scripts, such as JSPs and JAVA servlets, that perform a certain function.
+AEM Components Characteristics:
+
+- There are no hidden configuration files in this package.
+- Other Components can be included and operated anywhere within CQ5 or in isolation (e.g. portal).
+
 **Component hierarchies** determine how components share information with one another.
 We may use **website design** to provide a consistent appearance and feel across all pages.
