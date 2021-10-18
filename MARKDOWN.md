@@ -3,7 +3,9 @@
 ## Module 1 :
 
 **Web Content** : is a content on the internet, whether it is a full website, a web page, or web page building components such as HTML, JSP,.ASP, PHP, CSS, JavaScripts, Images, Videos, Audios, Flash, Word Docs, PDF files as links, WCM Tool content, and so on.
-**WCM (Web Content Management System)**: enables businesses to alter and evaluate website pages without relying on IT, cutting the time it takes to update product pages from a few days to one hour.It is a web application that can be used to create and manage web content.
+
+**WCM (Web Content Management System)**: is a software program that is used to create and manage web content and can be used to build a web application. It enables businesses to alter and evaluate website pages without relying on IT, cutting the time it takes to update product pages from a few days to one hour.
+<!-- It is a web application that can be used to create and manage web content. -->
 
 WCM's key features include document control, auditing, editing, and timeline management.
 
