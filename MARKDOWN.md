@@ -68,7 +68,7 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Mobile Apps support** : Using PhoneGap Build, we can manage and deliver mobile apps to various platforms.
 - **DAM enhancements** : features two-way syncing with Creative Cloud, Dynamic Media support built right into AEM, processing profiles, metadata schemas, increased search, and improved team collaboration with projects, workflows, and tasks.
 - **Operations Dashboard** : enables us to monitor and diagnose the AEM platform as well as perform maintenance activities and other health checks from a single location.
-- **Adaptive Forms** :
+- **Adaptive Forms** : enables us to design sophisticated and dynamic forms.
 - **No Automatic Indexes** : 
 
 ## Module 2 :
