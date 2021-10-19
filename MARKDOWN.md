@@ -50,7 +50,7 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Adobe Media Optimizer** : assists us in forecasting and optimizing our media mix to achieve the most return on investment (ROI).
 - **Adobe Target** : aids us in testing and targeting digital experiences in order to maximize business outcomes.
 - **Adobe Campaign** : aids us in the planning and execution of coordinated campaigns across all media.
-- **Adobe Experience Manager** : 
+- **Adobe Experience Manager** : assists us in organizing, managing, and delivering creative assets and other content across several digital marketing channels.
 
 
 
