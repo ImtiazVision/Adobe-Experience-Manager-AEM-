@@ -102,6 +102,8 @@ WCM's key features include document control, auditing, editing, and timeline man
 
 Aside from the OSGi framework, all other AEM components, as well as any additional custom applications written on top of the AEM platform, are implemented as OSGi bundles.
 
+**Apache Felix** is a collaborative effort to implement the OSGi Framework. The Apache Felix Web Management Console serves as the foundation for AEM's web console.
+
 ## Module 2 :
 
 **Viewing and Updating CRX Repository** : 
