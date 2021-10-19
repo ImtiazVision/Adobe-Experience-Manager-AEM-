@@ -100,6 +100,7 @@ WCM's key features include document control, auditing, editing, and timeline man
    - At runtime, we can uninstall a component.
    - We can dynamically install, start, and stop the application without having to shut it down and restart it.
 
+Aside from the OSGi framework, all other AEM components, as well as any additional custom applications written on top of the AEM platform, are implemented as OSGi bundles.
 
 ## Module 2 :
 
