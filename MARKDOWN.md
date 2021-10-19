@@ -54,9 +54,7 @@ WCM's key features include document control, auditing, editing, and timeline man
 
 ## AEM 6.X Application Stack : 
 
-![image](https://user-images.githubusercontent.com/50087271/137963250-e38e3ba6-7ceb-4078-86b5-202f5bfb3cee.png)
-
-
+![image](https://user-images.githubusercontent.com/50087271/137963868-85dde0b6-ced7-4d2b-bbd1-897d23c53c23.png)
 
 
 ## Module 2 :
