@@ -40,11 +40,11 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Legacy WCM Products** : Open text Vignette, EMC Web Publisher. 
 
 ## Adobe Experience Manager (AEM) Basics : 
-**AEM (Adobe Experience Manager)**: is a Web Content Management system that allows you to organize, manage, and deliver creative assets.
+**AEM (Adobe Experience Manager)**: is a Web Content Management system that allows you to organize, manage, and deliver creative assets. It is an enterprise-level web content management system with a plethora of strong capabilities such as authoring, publishing, site development, and administration.
 
 **AEM** offers templates for creating targeted content and securely publishing it in the cloud.It is a Java web application which requires a server-side Java Runtime Environment (JRE).
 
-**Adobe Marketing Cloud** :
+**Adobe Marketing Cloud** : is a comprehensive marketing solution from Adobe Systems that includes a set of integrated online marketing and web analytics solutions. Marketers may use it to monitor, customize, and optimize marketing campaigns and digital experiences for maximum marketing effectiveness.
 - **Adobe Analytics** : enables us to obtain real-time information across online and offline platforms, allowing us to continuously improve the performance of marketing initiatives.
 - **Adobe Social** : assists us in managing social marketing by providing a comprehensive platform that allows for social listening, publishing, and analytics.
 - **Adobe Media Optimizer** : assists us in forecasting and optimizing our media mix to achieve the most return on investment (ROI).
