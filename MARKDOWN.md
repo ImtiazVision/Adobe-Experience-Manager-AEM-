@@ -21,7 +21,7 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Multi Channel Delivery/Mobility** : allows us to change the content and layout of the web page based on the device that is requesting it.
 - **Bulk Import** : It enables us to upload files one at a time.
 - **Access Control** : enables us to access content based on predefined permissions.
-- **Targeting** :
+- **Targeting** : enables us to display content based on the logged-in user's profile.
 - **Digital Asset Management(DAM)** : 
 - **A/B Testing** : 
 - **Web Analytics** :
