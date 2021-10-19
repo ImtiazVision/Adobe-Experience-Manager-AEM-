@@ -28,7 +28,7 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Campaign Management** : helps us to design campaigns for the speedier promotion of Marketing concepts.
 
 **Users of WCM** : 
-- **Business Users** : - Content Contributors/Authorss
+- **Business Users** : Content Contributors/Authors, Content Reviewers, Content Editors, System Analysts.
 - **Developers** : 
 - **Administrators** :
 
