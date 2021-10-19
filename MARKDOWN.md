@@ -89,6 +89,9 @@ WCM's key features include document control, auditing, editing, and timeline man
    4. **Customer Application** (run on AEM)
         - Customer specific applications (websites, etc. also run within OSGi framework) 
 
+![image](https://user-images.githubusercontent.com/50087271/137973509-e8d1c737-4186-40b7-846c-d721ada14229.png)
+
+
 ## Module 2 :
 
 **Viewing and Updating CRX Repository** : 
