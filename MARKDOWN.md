@@ -56,6 +56,8 @@ WCM's key features include document control, auditing, editing, and timeline man
 
 ![image](https://user-images.githubusercontent.com/50087271/137963868-85dde0b6-ced7-4d2b-bbd1-897d23c53c23.png)
 
+**OSGi technology** : is made up of a collection of standards, implementations for each specification, and test compatibility kits for each specification, all of which work together to establish a dynamic module system for Java. OSGi is a standards-based solution to modularizing Java software applications and infrastructure that is vendor-independent.
+
 ## AEM 6.X New Features :
 - **New Repository Foundation**
 - **Jackrabbit Oak(CRX 3)** : improves the content repository's performance and scalability.
