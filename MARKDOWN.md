@@ -32,6 +32,12 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Developers** : are people who produce Templates, Components, and other components that we can utilize to make web pages.
 - **Administrators** : are individuals who ensure that the application is operational, offer access to the authoring environment, and apply patches/perform updates.
 
+**Products of WCM** :
+- **AEM Hub** : It is an Adobe WCM solution. Day CQ was purchased by Adobe in 2010. Adobe AEM is the current brand name (Adobe Experience Manager).
+- **Sitecore ** : Sitecore Experience Platform is the name under which it is now being marketed.
+- **SDL Tridion** : SDL bought Tridion, which is now marketed as SDL Tridion.
+
+
 **AEM (Adobe Experience Manager)**: is a Web Content Management system that allows you to organize, manage, and deliver creative assets.
 
 **AEM** offers templates for creating targeted content and securely publishing it in the cloud.It is a Java web application which requires a server-side Java Runtime Environment (JRE).
