@@ -66,8 +66,8 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Sightly** : is an HTML templating language that was first introduced with AEM 6.0. It replaces JSP (Java Server Pages) and ESP (ECMAScript Server Pages) as the primary HTML templating solution. The term 'Sightly' (meaning 'pleasant to the eye') emphasizes its emphasis on keeping our markup beautiful, and hence maintainable, once dynamically generated.
 - **Social Communities** : enables us to save material on the Adobe Social Cloud.
 - **Mobile Apps support** : Using PhoneGap Build, we can manage and deliver mobile apps to various platforms.
-- **DAM enhancements** : 
-- **Operations Dashboard** :
+- **DAM enhancements** : features two-way syncing with Creative Cloud, Dynamic Media support built right into AEM, processing profiles, metadata schemas, increased search, and improved team collaboration with projects, workflows, and tasks.
+- **Operations Dashboard** : enables us to monitor and diagnose the AEM platform as well as perform maintenance activities and other health checks from a single location.
 - **Adaptive Forms** :
 - **No Automatic Indexes** : 
 
