@@ -75,6 +75,18 @@ WCM's key features include document control, auditing, editing, and timeline man
 
 ## AEM Technology Stack :
 
+**Adobe Experience Manager (AEM)** : is a Java web application that requires a Java Runtime Environment on the server side (JRE). The following are the tech stack of **AEM**:
+    - **Java Platform** : Java Runtime Environment (JRE 1.6 minimum. JRE 1.7 is recommended)
+    - **Granite Platform** (runs on JRE)
+        - OSGi Framework (encapsulates all subsequent elements)
+        - CQSE Servlet Engine (optional external application server)
+        - CRX Content Repository
+        - Sling Content Repository
+        - Granite UI
+    - **Adobe Experience Manager** (runs on Granite platform, within OSGi framework)
+        - Individual AEM modules (WCM, DAM, Workflow, etc.)
+    - Customer Application (run on AEM)
+        - Customer specific applications (websites, etc. also run within OSGi framework) 
 
 ## Module 2 :
 
