@@ -19,7 +19,7 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Deployment** : enables us to manually or automatically deploy an entire website or a page to runtime environments (Scheduled)
 - **Multilingual** : enables us to display content in a variety of languages.
 - **Multi Channel Delivery/Mobility** : allows us to change the content and layout of the web page based on the device that is requesting it.
-- **Bulk Import** :
+- **Bulk Import** : It enables us to upload files one at a time.
 - **Access Control** : 
 
 **AEM (Adobe Experience Manager)**: is a Web Content Management system that allows you to organize, manage, and deliver creative assets.
