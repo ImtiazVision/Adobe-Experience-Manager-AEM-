@@ -29,7 +29,7 @@ WCM's key features include document control, auditing, editing, and timeline man
 
 **Users of WCM** : 
 - **Business Users** : Content Contributors/Authors, Content Reviewers, Content Editors, System Analysts.
-- **Developers** : 
+- **Developers** : are people who produce Templates, Components, and other components that we can utilize to make web pages.
 - **Administrators** :
 
 **AEM (Adobe Experience Manager)**: is a Web Content Management system that allows you to organize, manage, and deliver creative assets.
