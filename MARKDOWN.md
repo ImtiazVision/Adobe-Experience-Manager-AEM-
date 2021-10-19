@@ -73,6 +73,9 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Adaptive Forms** : enables us to design sophisticated and dynamic forms.
 - **No Automatic Indexes** : It enables us to construct custom indexes as needed.
 
+## AEM Technology Stack :
+
+
 ## Module 2 :
 
 **Viewing and Updating CRX Repository** : 
