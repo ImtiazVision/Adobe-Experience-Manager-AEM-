@@ -56,6 +56,12 @@ WCM's key features include document control, auditing, editing, and timeline man
 
 ![image](https://user-images.githubusercontent.com/50087271/137963868-85dde0b6-ced7-4d2b-bbd1-897d23c53c23.png)
 
+## AEM 6.X New Features :
+- **New Repository Foundation**
+- **Jackrabbit Oak(CRX 3)** : improves the content repository's performance and scalability.
+-  The following microkernel storage options are available: 
+    - **TarMK (default)** : which stores data using the Tar persistence mechanism.
+    - **MongoMK** : which uses Mongo DB for data storage. 
 
 ## Module 2 :
 
