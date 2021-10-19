@@ -48,7 +48,7 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Adobe Analytics** : enables us to obtain real-time information across online and offline platforms, allowing us to continuously improve the performance of marketing initiatives.
 - **Adobe Social** : assists us in managing social marketing by providing a comprehensive platform that allows for social listening, publishing, and analytics.
 - **Adobe Media Optimizer** : assists us in forecasting and optimizing our media mix to achieve the most return on investment (ROI).
-- **Adobe Target** : 
+- **Adobe Target** : aids us in testing and targeting digital experiences in order to maximize business outcomes.
 - **Adobe Campaign** :
 - **Adobe Experience Manager** : 
 
