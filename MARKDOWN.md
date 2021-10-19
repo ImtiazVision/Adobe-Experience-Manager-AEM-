@@ -65,7 +65,7 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Touch UI** : is a new touch-optimized interface developed by Coral UI and based on JQuery.
 - **Sightly** : is an HTML templating language that was first introduced with AEM 6.0. It replaces JSP (Java Server Pages) and ESP (ECMAScript Server Pages) as the primary HTML templating solution. The term 'Sightly' (meaning 'pleasant to the eye') emphasizes its emphasis on keeping our markup beautiful, and hence maintainable, once dynamically generated.
 - **Social Communities** : enables us to save material on the Adobe Social Cloud.
-- **Mobile Apps support** :
+- **Mobile Apps support** : Using PhoneGap Build, we can manage and deliver mobile apps to various platforms.
 - **DAM enhancements** : 
 - **Operations Dashboard** :
 - **Adaptive Forms** :
