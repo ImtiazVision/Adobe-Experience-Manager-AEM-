@@ -45,7 +45,7 @@ WCM's key features include document control, auditing, editing, and timeline man
 **AEM** offers templates for creating targeted content and securely publishing it in the cloud.It is a Java web application which requires a server-side Java Runtime Environment (JRE).
 
 **Adobe Marketing Cloud** :
-- **Adobe Analytics** :
+- **Adobe Analytics** : enables us to obtain real-time information across online and offline platforms, allowing us to continuously improve the performance of marketing initiatives.
 - **Adobe Social** : 
 - **Adobe Media Optimizer** : 
 - **Adobe Target** : 
