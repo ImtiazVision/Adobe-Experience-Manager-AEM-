@@ -63,6 +63,7 @@ WCM's key features include document control, auditing, editing, and timeline man
     - **TarMK (default)** : which stores data using the Tar persistence mechanism.
     - **MongoMK** : which uses Mongo DB for data storage. 
 - **Touch UI** : is a new touch-optimized interface developed by Coral UI and based on JQuery.
+- **Sightly** : 
 
 ## Module 2 :
 
