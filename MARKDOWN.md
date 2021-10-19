@@ -18,7 +18,7 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **WorkFlow** : 
 - **Deployment** : enables us to automate business processes related to the creation, approval, and distribution of web content. 
 - **Multilingual** : enables us to display content in a variety of languages.
-- **Multi Channel Delivery/Mobility** :
+- **Multi Channel Delivery/Mobility** : allows us to change the content and layout of the web page based on the device that is requesting it.
 - **Bulk Import** :
 - **Access Control** : 
 
