@@ -9,7 +9,7 @@
 
 WCM's key features include document control, auditing, editing, and timeline management.
 
-**Features of WCM** : 
+**Features of WCM** : Web Content Management (WCM) key capabilities include document control, auditing, editing, and timeline management. WCM has the following unique features:
 - **Authoring Interface** : enables us to build web pages by utilizing templates and components.
 - **Version Control** : enables us to retrieve earlier versions and resume work from a certain point.
 - **Document Classification** : enables us to manually or automatically tag and categorize metadata (data that characterizes a document).
