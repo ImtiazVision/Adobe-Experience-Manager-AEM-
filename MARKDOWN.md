@@ -93,6 +93,8 @@ WCM's key features include document control, auditing, editing, and timeline man
 
 ## OSGi Framework : 
 
+**OSGi Framework** : is a collection of specifications that allows us to create an application by combining a number of separate re-usable components (programs/codes).
+
 
 
 ## Module 2 :
