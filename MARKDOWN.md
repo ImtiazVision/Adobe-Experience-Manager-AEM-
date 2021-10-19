@@ -24,7 +24,7 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Targeting** : enables us to display content based on the logged-in user's profile.
 - **Digital Asset Management(DAM)** : enables us to store digital assets such as images, audio, and video files in a single repository and then render them according to specifications.
 - **A/B Testing** : gives us the ability to support A/B testing ( Multi Variant Testing).
-- **Web Analytics** :
+- **Web Analytics** : enables us to examine website traffic and user behavior.
 - **Campaign Management** :
 
 **AEM (Adobe Experience Manager)**: is a Web Content Management system that allows you to organize, manage, and deliver creative assets.
