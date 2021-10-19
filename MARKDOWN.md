@@ -52,6 +52,11 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Adobe Campaign** : aids us in the planning and execution of coordinated campaigns across all media.
 - **Adobe Experience Manager** : assists us in organizing, managing, and delivering creative assets and other content across several digital marketing channels.
 
+## AEM 6.X Application Stack : 
+
+![image](https://user-images.githubusercontent.com/50087271/137963250-e38e3ba6-7ceb-4078-86b5-202f5bfb3cee.png)
+
+
 
 
 ## Module 2 :
