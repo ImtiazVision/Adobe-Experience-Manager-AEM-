@@ -86,7 +86,7 @@ WCM's key features include document control, auditing, editing, and timeline man
         - Granite UI
    3. **Adobe Experience Manager** (runs on Granite platform, within OSGi framework)
         - Individual AEM modules (WCM, DAM, Workflow, etc.)
-   4. Customer Application (run on AEM)
+   4. **Customer Application** (run on AEM)
         - Customer specific applications (websites, etc. also run within OSGi framework) 
 
 ## Module 2 :
