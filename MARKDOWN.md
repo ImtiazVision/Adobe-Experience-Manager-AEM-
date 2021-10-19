@@ -39,12 +39,12 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Leading Opensource WCM Products** : Alfresco, Drupal, and Life Ray. 
 - **Legacy WCM Products** : Open text Vignette, EMC Web Publisher. 
 
-
+## Adobe Experience Manager (AEM) Basics : 
 **AEM (Adobe Experience Manager)**: is a Web Content Management system that allows you to organize, manage, and deliver creative assets.
 
 **AEM** offers templates for creating targeted content and securely publishing it in the cloud.It is a Java web application which requires a server-side Java Runtime Environment (JRE).
 
-## Adobe Experience Manager (AEM) Basics : 
+
 
 ## Module 2 :
 
