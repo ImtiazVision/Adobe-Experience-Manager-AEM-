@@ -22,7 +22,7 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Bulk Import** : It enables us to upload files one at a time.
 - **Access Control** : enables us to access content based on predefined permissions.
 - **Targeting** : enables us to display content based on the logged-in user's profile.
-- **Digital Asset Management(DAM)** : 
+- **Digital Asset Management(DAM)** : enables us to store digital assets such as images, audio, and video files in a single repository and then render them according to specifications.
 - **A/B Testing** : 
 - **Web Analytics** :
 - **Campaign Management** :
