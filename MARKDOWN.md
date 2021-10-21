@@ -74,6 +74,12 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Adaptive Forms** : enables us to design sophisticated and dynamic forms.
 - **No Automatic Indexes** : It enables us to construct custom indexes as needed.
 
+A servlet engine is an application server that provides the infrastructure for running Java servlets.
+When AEM is deployed via the standalone quickstart jar file, it includes a built-in servlet engine (CQSE) that operates as a bundle within the OSGi framework.
+Workflow Engine - Workflows can be used inside CQ WCM to regulate the process of generating and publishing material, which is frequently subject to organizational processes, such as approval and sign-off by multiple participants.
+Components in CQ - Components provide the logic (code) for rendering content. Various OOB components are available; based on our surroundings, we can change these or create new ones.
+
+
 ## AEM Technology Stack :
 
 **Adobe Experience Manager (AEM)** : is a Java web application that requires a Java Runtime Environment on the server side (JRE). The following are the tech stack of **AEM**:
