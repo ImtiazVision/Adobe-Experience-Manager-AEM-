@@ -120,6 +120,10 @@ The benefits are as follows:
     - Disposes of one or more data models.
     - URL structure, business objects, and DB schema were replaced by URL, resource, and JCR structures.
 
+## Sling Post Servlet :
+
+The Sling Post Servlet is used to make changes to material in a JCR repository. Sling Post Servlet allows us to create, change, copy, move, remove, and import resources.
+
 ## Module 2 :
 
 **Viewing and Updating CRX Repository** : 
