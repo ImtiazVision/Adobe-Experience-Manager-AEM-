@@ -124,6 +124,19 @@ The benefits are as follows:
 
 The Sling Post Servlet is used to make changes to material in a JCR repository. Sling Post Servlet allows us to create, change, copy, move, remove, and import resources.
 
+## CRX Content Repository : 
+
+All data in AEM is saved in the built-in CRX content repository, which is a Java Content Repository Specification implementation (JCR).
+
+
+JCR Content Repository has the following features:
+
+1. The AEM repository is known as CRX.
+2. Adobe's implementation of the Content Repository Specification for Java Technology 2.0 is known as CRX.
+3. The specification is commonly abbreviated as JCR. JCR denotes the type of repository; for example, CRX.
+Apache Jackrabbit is another example of a JCR repository. Jackrabbit is the JCR reference implementation.
+5. CRX, while technically a different specification implementation, is built on the Jackrabbit codebase.
+
 ## Module 2 :
 
 **Viewing and Updating CRX Repository** : 
