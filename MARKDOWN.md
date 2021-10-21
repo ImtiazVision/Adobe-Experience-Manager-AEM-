@@ -111,6 +111,15 @@ Sling is a web application framework based on Representational State Transfer (R
 
 Sling is content-centric, which means that processing is centered on the content, as each (HTTP) request is mapped into content in the form of a JCR resource (a repository node).
 
+## Sling Content Delivery :
+
+RESTful Sling implements a REST-oriented server, introducing a new concept to the web application framework.
+
+The benefits are as follows:
+    - Its resources and representations are accurately modeled within the server.
+    - Disposes of one or more data models.
+    - URL structure, business objects, and DB schema were replaced by URL, resource, and JCR structures.
+
 ## Module 2 :
 
 **Viewing and Updating CRX Repository** : 
