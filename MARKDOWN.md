@@ -151,6 +151,19 @@ JCR Content Repository has the following features:
 - **Apache Jackrabbit** is another example of a JCR repository. Jackrabbit is the JCR reference implementation.
 - CRX, while technically a different specification implementation, is built on the Jackrabbit codebase.
 
+### What we learned so far : 
+
+The OSGi Framework allows us to create applications by building many independent re-usable components (programs/codes).
+
+
+Sling Content Delivery, which demonstrates best practices and incorporates UI concepts.
+
+
+The CRX Content Repository is where all of AEM's data is stored.
+
+
+When AEM is deployed using the standalone quickstart jar file, the Servlet Engine runs as a bundle within the OSGi framework.
+
 ## Module 2 :
 
 **Viewing and Updating CRX Repository** : 
