@@ -164,6 +164,20 @@ The CRX Content Repository is where all of AEM's data is stored.
 
 When AEM is deployed using the standalone quickstart jar file, the Servlet Engine runs as a bundle within the OSGi framework.
 
+## AEM Installation : 
+
+The OSGi Framework allows us to create applications by building many independent re-usable components (programs/codes).
+
+
+Sling Content Delivery, which demonstrates best practices and incorporates UI concepts.
+
+
+The CRX Content Repository is where all of AEM's data is stored.
+
+
+When AEM is deployed using the standalone quickstart jar file, the Servlet Engine runs as a bundle within the OSGi framework.
+
+
 ## Module 2 :
 
 **Viewing and Updating CRX Repository** : 
