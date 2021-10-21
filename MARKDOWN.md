@@ -177,6 +177,13 @@ The CRX Content Repository is where all of AEM's data is stored.
 
 When AEM is deployed using the standalone quickstart jar file, the Servlet Engine runs as a bundle within the OSGi framework.
 
+An instance is a clone of AEM that is running on a server in AEM terminology. AEM setups normally involve at least two instances, which are often run on separate machines:
+
+- **Author**: An AEM instance used to create, upload, and edit content, as well as to manage the website.
+
+
+- **Publish**: An AEM instance that serves the public with the published content.
+
 
 ## Module 2 :
 
