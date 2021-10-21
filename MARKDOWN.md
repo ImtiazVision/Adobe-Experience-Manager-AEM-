@@ -105,6 +105,12 @@ Aside from the OSGi framework, all other AEM components, as well as any addition
 
 **Apache Felix** is a collaborative effort to implement the OSGi Framework. The Apache Felix Web Management Console serves as the foundation for AEM's web console.
 
+## Sling Overview 
+
+Sling is a web application framework based on Representational State Transfer (REST) principles that allows for the rapid construction of content-oriented applications that employ a JCR repository, such as Apache Jackrabbit, or, in the case of AEM, the CRX Content Repository, as their data store.
+
+Sling is content-centric, which means that processing is centered on the content, as each (HTTP) request is mapped into content in the form of a JCR resource (a repository node).
+
 ## Module 2 :
 
 **Viewing and Updating CRX Repository** : 
