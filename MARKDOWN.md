@@ -83,6 +83,10 @@ When AEM is deployed via the standalone quickstart jar file, it includes a **bui
 
 **CQ Widgets Library** is a proprietary ExtJs library that includes a variety of widgets that may be linked to components for user interaction.
 
+**Apache Sling** is a web application framework used to store and manage content in content repositories such as Apache Jackrabbit or CRX.
+
+**OSGi (Apache Felix)** - CQ is built with the Java OSGi dynamic module framework. This enables various components of CQ to be paused, updated, and restarted without halting the entire system.
+
 
 ## AEM Technology Stack :
 
