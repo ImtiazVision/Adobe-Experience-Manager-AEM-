@@ -74,7 +74,7 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Adaptive Forms** : enables us to design sophisticated and dynamic forms.
 - **No Automatic Indexes** : It enables us to construct custom indexes as needed.
 
-A servlet engine is an application server that provides the infrastructure for running Java servlets.
+A **servlet engine** is an application server that provides the infrastructure for running **Java servlets**.
 When AEM is deployed via the standalone quickstart jar file, it includes a **built-in servlet engine** (CQSE) that operates as a bundle within the OSGi framework.
 
 **Workflow Engine** - Workflows can be used inside CQ WCM to regulate the process of generating and publishing material, which is frequently subject to organizational processes, such as approval and sign-off by multiple participants.
