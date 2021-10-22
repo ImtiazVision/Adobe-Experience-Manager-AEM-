@@ -41,7 +41,8 @@ WCM's key features include document control, auditing, editing, and timeline man
 - **Legacy WCM Products** : Open text Vignette, EMC Web Publisher. 
 
 ## Adobe Experience Manager (AEM) Basics : 
-**AEM (Adobe Experience Manager)**: is a Web Content Management system that allows you to organize, manage, and deliver creative assets. It is an enterprise-level web content management system with a plethora of strong capabilities such as authoring, publishing, site development, and administration.
+
+**AEM (Adobe Experience Manager)**:  is a Web Content Management system that allows you to organize, manage, and deliver creative assets. It is an enterprise-level web content management system with a plethora of strong capabilities such as authoring, publishing, site development, and administration.
 
 **AEM** offers templates for creating targeted content and securely publishing it in the cloud.It is a Java web application which requires a server-side Java Runtime Environment (JRE).
 
@@ -59,7 +60,8 @@ WCM's key features include document control, auditing, editing, and timeline man
 
 **OSGi technology** : is made up of a collection of standards, implementations for each specification, and test compatibility kits for each specification, all of which work together to establish a dynamic module system for Java. OSGi is a standards-based solution to modularizing Java software applications and infrastructure that is vendor-independent.
 
-## AEM 6.X New Features :
+## AEM 6.X New Features : 
+
 - **New Repository Foundation**
 - **Jackrabbit Oak(CRX 3)** : improves the content repository's performance and scalability.
 -  The following microkernel storage options are available: 
