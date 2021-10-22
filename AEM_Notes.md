@@ -121,9 +121,9 @@ Aside from the OSGi framework, all other AEM components, as well as any addition
 
 ## Sling Overview 
 
-Sling is a web application framework based on Representational State Transfer (REST) principles that allows for the rapid construction of content-oriented applications that employ a JCR repository, such as Apache Jackrabbit, or, in the case of AEM, the CRX Content Repository, as their data store.
+**Sling** is a web application framework based on Representational State Transfer (REST) principles that allows for the rapid construction of content-oriented applications that employ a JCR repository, such as Apache Jackrabbit, or, in the case of AEM, the CRX Content Repository, as their data store.
 
-Sling is content-centric, which means that processing is centered on the content, as each (HTTP) request is mapped into content in the form of a JCR resource (a repository node).
+**Sling** is content-centric, which means that processing is centered on the content, as each (HTTP) request is mapped into content in the form of a JCR resource (a repository node).
 
 ## Sling Content Delivery :
 
@@ -153,13 +153,13 @@ JCR Content Repository has the following features:
 
 ### What we learned so far : 
 
-The OSGi Framework allows us to create applications by building many independent re-usable components (programs/codes).
+The **OSGi Framework** allows us to create applications by building many independent re-usable components (programs/codes).
 
 
-Sling Content Delivery, which demonstrates best practices and incorporates UI concepts.
+**Sling Content Delivery**, which demonstrates best practices and incorporates UI concepts.
 
 
-The CRX Content Repository is where all of AEM's data is stored.
+The **CRX Content Repository** is where all of AEM's data is stored.
 
 
 When AEM is deployed using the standalone quickstart jar file, the Servlet Engine runs as a bundle within the OSGi framework.
@@ -169,10 +169,10 @@ When AEM is deployed using the standalone quickstart jar file, the Servlet Engin
 The OSGi Framework allows us to create applications by building many independent re-usable components (programs/codes).
 
 
-Sling Content Delivery, which demonstrates best practices and incorporates UI concepts.
+**Sling Content Delivery**, which demonstrates best practices and incorporates UI concepts.
 
 
-The CRX Content Repository is where all of AEM's data is stored.
+The **CRX Content Repository** is where all of AEM's data is stored.
 
 
 When AEM is deployed using the standalone quickstart jar file, the Servlet Engine runs as a bundle within the OSGi framework.
