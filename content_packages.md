@@ -1,4 +1,4 @@
-  - **Immutable Content Packages** : are immutable and are stored in the repository. They may be checked into Git and deployed through Cloud Manager.
+  - **Immutable Content Packages** : are immutable and are stored in the repository. They may be checked into Git and deployed through Cloud Manager. Immutable directories include /apps and /libs.
 
   - **Mutable Content Packages** : Typically, mutable material is committed to an AEM project using Maven archetypes. Service users, directories, node kinds, customizable templates, and scripts, among other things, are all included in the content.
 
