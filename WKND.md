@@ -1,3 +1,3 @@
 ### WKND 
 
-**WKND** : WKND is an AEM reference site that was created to represent best practices for developing websites using AEM.
+**WKND** : WKND is a fully functional AEM reference site built using AEM that has been released to highlight best practices for developing websites with AEM.
