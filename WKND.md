@@ -10,3 +10,4 @@ Some of the best practices of WKND are the following:
 - Core Components
 - Responsive Layout for all pages
 - Editable Templates
+- HTL (HTML Template Language) for all components
