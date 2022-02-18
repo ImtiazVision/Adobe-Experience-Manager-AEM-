@@ -2,12 +2,17 @@
 
 
  - Nodes
-  > Provide the structure and properties to store data
-  > Type
-  > Any number of properties
+ 
+    -> Provide the structure and properties to store data
+  
+    -> Type
+  
+    -> Any number of properties
   
  - Properties
-   Store data having name and value
+
+   -> Store data having name and value
    
  - Namespaces
-   > All nodes and JCR properties are stored in different namespaces
+
+   -> All nodes and JCR properties are stored in different namespaces
