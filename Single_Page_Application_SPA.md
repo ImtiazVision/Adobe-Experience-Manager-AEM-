@@ -4,4 +4,4 @@ SPA is an abbreviation for Single Page Application. It is essentially a JavaScri
 
 ### AEM SPA Editor 
 
-The AEM SPA editor provides a complete solution for supporting SPAs inside AEM. As a result, the SPA editor enables front end developers to design SPAs that can be incorporated into the AEM site, while simultaneously enabling content authors to change the SPA material as easily as any other AEM content.
+The AEM SPA editor provides a complete solution for supporting SPAs inside AEM. As a result, the SPA editor enables front end developers to design SPAs that can be incorporated into the AEM site, while simultaneously enabling content authors to change the SPA material as easily as any other AEM content. Mapping between the JSON output of the SPA and the content model in the AEM repository is required to allow modification of SPAs inside AEM.
