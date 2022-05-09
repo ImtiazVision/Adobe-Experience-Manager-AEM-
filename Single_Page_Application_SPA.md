@@ -4,3 +4,4 @@ SPA is an abbreviation for Single Page Application. It is essentially a JavaScri
 
 ### AEM SPA Editor 
 
+The AEM SPA editor provides a complete solution for supporting SPAs inside AEM.
